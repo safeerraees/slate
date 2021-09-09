@@ -71,6 +71,16 @@ Kittn expects for the API key to be included in all API requests to the server i
 You must replace <code>meowmeowmeow</code> with your personal API key.
 </aside>
 
+# APIMatic Widget
+
+Trying to embed APIMatic Widget
+<apimatic-widget
+    java="true"
+    php="true"
+    dotNet="true"
+    ts="true"
+    python="true"
+    ruby="true"></apimatic-widget>
 # Kittens
 
 ## Get All Kittens
