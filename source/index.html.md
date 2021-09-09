@@ -14,7 +14,7 @@ toc_footers:
 includes:
   - errors
 
-search: true
+search: false
 
 code_clipboard: true
 
